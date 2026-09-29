@@ -1,0 +1,6 @@
+name: genpark-compensation-saga-rollback-orchestrator-skill
+version: 1.0.0
+description: Distributed Saga transaction orchestrator executing forward actions and compensating reverse rollbacks
+command: python
+args:
+  - mcp_server.py
