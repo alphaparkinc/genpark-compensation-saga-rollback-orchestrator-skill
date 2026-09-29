@@ -1,0 +1,20 @@
+{
+  "name": "genpark-compensation-saga-rollback-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "Distributed Saga transaction orchestrator executing forward actions and compensating reverse rollbacks",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "saga-orchestrator",
+    "compensation-rollback",
+    "distributed-transactions",
+    "failure-recovery",
+    "resilience",
+    "python-standard-library",
+    "agent-skills",
+    "workflow-engine",
+    "orchestration",
+    "developer-tools"
+  ]
+}
